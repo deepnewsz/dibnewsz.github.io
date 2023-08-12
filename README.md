@@ -15,14 +15,16 @@ Deep News is a website that tells about all the deepest things. and we share it 
 
 # META
 ```txt
-                     Deep News
+                       Header
                          |
                          |
-                     Real Data
+                     Navigation
                          |
         ------------------------------------
        |                 |                  |
-    Web App         Android App           NATIVE
+    Content           Content            Content
+                         |
+                       Footer
 ```
 
 # Hierarchy
