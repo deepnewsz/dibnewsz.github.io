@@ -24,3 +24,14 @@ Deep News is a website that tells about all the deepest things. and we share it 
        |                 |                  |
     Web App         Android App           NATIVE
 ```
+
+# Hierarchy
+```txt
+ ____ Deeb News
+|
+|________ Database
+|
+|____________ Assets
+|
+|_______________ Index
+```
